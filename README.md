@@ -24,7 +24,6 @@ collabrec/
 │   ├── evaluation/
 │   └── cli/
 ├── ratings.csv         (your data file – you can place it here)
-└── generate_big_ratings.py (optional, to make test data)
 ```
 
 ## What It Does
