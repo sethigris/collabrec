@@ -158,4 +158,4 @@ This project is for educational purposes and is free to use under the MIT licens
 
 ## Need Help?
 
-If you have questions, feel free to open an issue on the project page (if hosted on GitHub) or contact the author. Happy recommending!
+If you have questions, feel free to open an issue on the project page or contact the author. Happy recommending!
