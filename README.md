@@ -24,6 +24,7 @@ collabrec/
 │   ├── evaluation/
 │   └── cli/
 ├── ratings.csv         (your data file – you can place it here)
+└── generate_ratings.py (This is already created, you can update the code if you want)
 ```
 
 ## What It Does
@@ -58,7 +59,7 @@ cd /home/yourname/Projects
 
 ```bash
 cd collabrec
-python3 generate_big_ratings.py
+python3 generate_ratings.py
 cd ..
 ```
 
